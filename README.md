@@ -22,10 +22,13 @@ This two below courses can give some idea about iOS Pen testing and the tools th
 * https://www.udemy.com/course/hacking-and-pentesting-ios-applications
 * https://www.youtube.com/watch?v=2CKrw7ErzCY&t=3565s
 
-## Book to read:
+## Book must read:
 OWASP Mobile Security Testing Guide is a great book to understand every details and steps about ios pen testing. There are so much details and so much to learn. A must read. 
 
 * https://github.com/OWASP/owasp-mstg
+
+## Other books: 
+iOS Application Security: https://nostarch.com/iossecurity
 
 ## Tools to use
 * Checkra1n: Very popular jail break tool. Works devices lower than iPhone X. Easily un-jailbreak the device. 
