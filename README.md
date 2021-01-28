@@ -17,7 +17,7 @@ Some of the common approaches are:
 
 
 ## Courses to follow:
-This two below courses can give some idea about iOS Pen testing and the tools that are use.
+This two below courses can give you some idea about iOS Pen testing and the tools that are used.
 
 * https://www.udemy.com/course/hacking-and-pentesting-ios-applications
 * https://www.youtube.com/watch?v=2CKrw7ErzCY&t=3565s
