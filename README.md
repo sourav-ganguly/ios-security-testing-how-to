@@ -41,3 +41,6 @@ OWASP Mobile Security Testing Guide is a great book to understand every details 
 * SSL Kill Switch: Bypass SSL pinning
 * iFunBox: iFunBox is a file and app management tool that supports iOS. It has several features, like app installation, access the app sandbox without jailbreak and others.
 * Hopper: This is a disassembler and reverse engineering tool. This tool let you disassemble, decompile and debug your applications.
+
+## Testing Checklist:
+* https://github.com/OWASP/owasp-mstg/releases
