@@ -1,6 +1,6 @@
 # iOS Security Testing, What It Is and How To:
 
-*Pen Testing or Security Testing:* Security testing is about finding security flows in a app. In security testing, we try to hack the app and in some cases search in the source code(white box) to find any potential security flaw. We try to find security flow in 7 different areas: 
+**Pen Testing or Security Testing:** Security testing is about finding security flows in a app. In security testing, we try to hack the app and in some cases search in the source code(white box) to find any potential security flaw. We try to find security flow in 7 different areas: 
 1. Basic Security Flaw: Look for very common security flaws like revealing some API key or some important data in source code.
 1. Data Storage: Common data Storage vulnerabilities are like keeping important data unencrypted or leaking internal data in some way.
 2. Authentication: Vulnearibilities like if it is possible some way to bypass the authentication process or security flaw in session-related data.
@@ -11,9 +11,9 @@
 
 
 Some of the common approaches are:
-1. Black box: You have no idea about the internals of the app. Try to hack like some random app.
-2. Gray box: You have some idea about the architecture and the app. But you don't have the source code.
-3. White box: You have full source code. Easier to find vulnerabilities in a limited time frame.
+1. **Black box:** You have no idea about the internals of the app. Try to hack like some random app.
+2. **Gray box:** You have some idea about the architecture and the app. But you don't have the source code.
+3. **White box:** You have full source code. Easier to find vulnerabilities in a limited time frame.
 
 
 ## Courses to follow:
@@ -31,19 +31,19 @@ OWASP Mobile Security Testing Guide is a  must-read for every mobile security te
 iOS Application Security: https://nostarch.com/iossecurity
 
 ## Tools to use
-* Checkra1n: Very popular jailbreak tool. Works devices lower than iPhone X. Easily un-jailbreak the device. 
-* Cydia: Most popular Appstore for jailbroken devices.
-* OpenSSH: SSH client for mobile. Helps to run commands on mobile from a computer over SSH protocol.
-* BurpSuite: Favorite proxy tool. Used to watch network communication and run different network hacking techniques.
-* MobSF: MobSF (Mobile Security Framework) is an automated, all-in-one mobile application pen-testing framework capable of performing static and dynamic analysis.
-* Objection: Runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications. Can do tasks like Bypass SSL pinning, dump keychains, performing memory-related tasks, explore and manipulate objects on the heap. 
-* Frida: Frida is a free and open-source dynamic code instrumentation toolkit written by Ole André Vadla Ravnås that works by injecting the QuickJS JavaScript engine (previously Duktape and V8) into the instrumented process. Frida lets you execute snippets of JavaScript into native apps on Android and iOS.
-* Fridump: a memory dumping tool for both Android and iOS.
-* class-dump/ class-dump-z: is a command-line utility for examining the Objective-C runtime information stored in Mach-O (Mach object) files. It generates declarations for the classes, categories, and protocols.
-* Cycript: Cydia Substrate (formerly called MobileSubstrate) is the standard framework for developing Cydia runtime patches (the so-called "Cydia Substrate Extensions") on iOS. It comes with Cynject, a tool that provides code injection support for C.
-* SSL Kill Switch: Bypass SSL pinning
-* iFunBox: iFunBox is a file and app management tool that supports iOS. It has several features, like app installation, access the app sandbox without jailbreak and others.
-* Hopper: This is a disassembler and reverse engineering tool. This tool lets you disassemble, decompile and debug your applications.
+* **Checkra1n:** Very popular jailbreak tool. Works devices lower than iPhone X. Easily un-jailbreak the device. 
+* **Cydia:** Most popular Appstore for jailbroken devices.
+* **OpenSSH:** SSH client for mobile. Helps to run commands on mobile from a computer over SSH protocol.
+* **BurpSuite:** Favorite proxy tool. Used to watch network communication and run different network hacking techniques.
+* **MobSF:** MobSF (Mobile Security Framework) is an automated, all-in-one mobile application pen-testing framework capable of performing static and dynamic analysis.
+* **Objection:** Runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications. Can do tasks like Bypass SSL pinning, dump keychains, performing memory-related tasks, explore and manipulate objects on the heap. 
+* **Frida:** Frida is a free and open-source dynamic code instrumentation toolkit written by Ole André Vadla Ravnås that works by injecting the QuickJS JavaScript engine (previously Duktape and V8) into the instrumented process. Frida lets you execute snippets of JavaScript into native apps on Android and iOS.
+* **Fridump:** a memory dumping tool for both Android and iOS.
+* **class-dump/ class-dump-z:** is a command-line utility for examining the Objective-C runtime information stored in Mach-O (Mach object) files. It generates declarations for the classes, categories, and protocols.
+* **Cycript:** Cydia Substrate (formerly called MobileSubstrate) is the standard framework for developing Cydia runtime patches (the so-called "Cydia Substrate Extensions") on iOS. It comes with Cynject, a tool that provides code injection support for C.
+* **SSL Kill Switch:** Bypass SSL pinning
+* **iFunBox:** iFunBox is a file and app management tool that supports iOS. It has several features, like app installation, access the app sandbox without jailbreak and others.
+* **Hopper:** This is a disassembler and reverse engineering tool. This tool lets you disassemble, decompile and debug your applications.
 
 ## Testing Checklist:
 * https://github.com/OWASP/owasp-mstg/releases
