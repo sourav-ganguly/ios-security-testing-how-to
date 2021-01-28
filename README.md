@@ -23,7 +23,7 @@ This two below courses can give some idea about iOS Pen testing and the tools th
 * https://www.youtube.com/watch?v=2CKrw7ErzCY&t=3565s
 
 ## Book must read:
-OWASP Mobile Security Testing Guide is a great book to understand every details and steps about ios pen testing. There are so much details and so much to learn. A must read. 
+OWASP Mobile Security Testing Guide is a  must read for every mobile security tester. There are so much details about all kinds of mobile security vulnearabilities. On top of that, you can get a very good idea about the underlying technologies that are used in iOS to provide complex app security. 
 
 * https://github.com/OWASP/owasp-mstg
 
