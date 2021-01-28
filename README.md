@@ -32,7 +32,12 @@ OWASP Mobile Security Testing Guide is a great book to understand every details 
 * Cydia: Most popular Appstore for jailed broken device.
 * OpenSSH: SSH client for mobile. Helps to run command on mobile from computer over SSH protocol.
 * BurpSuite: Favorite proxy tool. Used to watch network communication and run different network hacking techniques.
-* MobSF: Automated security testing tool.
-* Frida + Objection: Runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications. Can do tasks like, Bypass SSL pinning, dump keychains, performing memory related tasks, explore and manipulate objects on the heap. 
+* MobSF: MobSF (Mobile Security Framework) is an automated, all-in-one mobile application pentesting framework capable of performing static and dynamic analysis.
+* Objection: Runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications. Can do tasks like, Bypass SSL pinning, dump keychains, performing memory related tasks, explore and manipulate objects on the heap. 
+* Frida: Frida is a free and open source dynamic code instrumentation toolkit written by Ole André Vadla Ravnås that works by injecting the QuickJS JavaScript engine (previously Duktape and V8) into the instrumented process. Frida lets you execute snippets of JavaScript into native apps on Android and iOS.
+* Fridump: a memory dumping tool for both Android and iOS.
+* class-dump/ class-dump-z: is a command line utility for examining the Objective-C runtime information stored in Mach-O (Mach object) files. It generates declarations for the classes, categories, and protocols.
+* Cycript: Cydia Substrate (formerly called MobileSubstrate) is the standard framework for developing Cydia runtime patches (the so-called "Cydia Substrate Extensions") on iOS. It comes with Cynject, a tool that provides code injection support for C.
 * SSL Kill Switch: Bypass SSL pinning
+* iFunBox: iFunBox is a file and app management tool that supports iOS. It has several features, like app installation, access the app sandbox without jailbreak and others.
 * Hopper: This is a disassembler and reverse engineering tool. This tool let you disassemble, decompile and debug your applications.
