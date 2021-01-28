@@ -11,9 +11,9 @@
 6. Anti Reverse Engineering: For sensitive apps, if necessary anti reverse engineering measures are taken.
 
 Some of the common approaches are:
-Black box: You have no idea about the internals of the app. Try to hack like some random app.
-Gray box: You have some idea about the architecture and about the app. But you don't have the source code.
-White box: You have full source code. Easier to find vulnearability in limited time frame.
+1. Black box: You have no idea about the internals of the app. Try to hack like some random app.
+2. Gray box: You have some idea about the architecture and about the app. But you don't have the source code.
+3. White box: You have full source code. Easier to find vulnearability in limited time frame.
 
 
 ## Courses to follow:
