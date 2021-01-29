@@ -1,6 +1,6 @@
 # iOS Security Testing, What It Is and How To:
 
-**Pen Testing or Security Testing:** Security testing is about finding security flows in a app. In security testing, we try to hack the app and in some cases search in the source code(white box) to find any potential security flaw. We try to find security flow in 7 different areas: 
+**Pen Testing or Security Testing:** Security testing is about finding security flaws in a app. In security testing, we try to hack the app and in some cases search in the source code(white box) to find any potential security flaw. We try to find security flow in 7 different areas: 
 1. **Basic Security Flaw:** Look for very common security flaws like revealing some API key or some important data in source code.
 1. **Data Storage:** Common data Storage vulnerabilities are like keeping important data unencrypted or leaking internal data in some way.
 2. **Authentication:** Vulnearibilities like if it is possible some way to bypass the authentication process or security flaw in session-related data.
